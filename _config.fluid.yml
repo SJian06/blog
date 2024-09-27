@@ -538,7 +538,7 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: /img/wood.png
+  banner_img: /img/wood.jpg
   banner_img_height: 65
   banner_mask_alpha: 0.5
 

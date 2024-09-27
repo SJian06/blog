@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: 从二叉树看C语言指针的用法
+title: 指针初见：从二叉树中看指针用法
 date: 2024-09-25 
 tags: 
     - C
