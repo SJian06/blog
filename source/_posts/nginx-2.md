@@ -1,9 +1,7 @@
 ---
 title: nginx的奇幻冒险：启动服务器
 date: 2024-10-27 23:44:49
-tags:
-  - nginx
-  - unix网络编程
+categories: nginx的奇幻冒险
 ---
 
 ### 前言

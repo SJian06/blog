@@ -1,8 +1,7 @@
 ---
 title: Nginx的奇幻冒险：从编译开始
 date: 2024-10-21 21:22:42
-tags: 
-    - nginx
+categories: nginx的奇幻冒险
 ---
 
 ## 前言
